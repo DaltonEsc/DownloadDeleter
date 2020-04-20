@@ -1,0 +1,19 @@
+{
+  "version": 2,
+  "dgSpecHash": "RaPShJheCg3TfflqPDdFCYIYvYNzvfHyDMR5oIlcxPDa19HuxteIOzRxKw/O0e7CbJ5MDwG+Q9opuEGMGnJKMQ==",
+  "success": true,
+  "projectFilePath": "D:\\CodeZone\\C#\\AutomateDownloadDeleter\\AutomateDownloadDeleter.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\eschb\\.nuget\\packages\\microsoft.netcore.platforms\\2.0.0\\microsoft.netcore.platforms.2.0.0.nupkg.sha512",
+    "C:\\Users\\eschb\\.nuget\\packages\\microsoft.win32.registry\\4.5.0\\microsoft.win32.registry.4.5.0.nupkg.sha512",
+    "C:\\Users\\eschb\\.nuget\\packages\\system.diagnostics.eventlog\\4.5.0\\system.diagnostics.eventlog.4.5.0.nupkg.sha512",
+    "C:\\Users\\eschb\\.nuget\\packages\\system.security.accesscontrol\\4.5.0\\system.security.accesscontrol.4.5.0.nupkg.sha512",
+    "C:\\Users\\eschb\\.nuget\\packages\\system.security.permissions\\4.5.0\\system.security.permissions.4.5.0.nupkg.sha512",
+    "C:\\Users\\eschb\\.nuget\\packages\\system.security.principal.windows\\4.5.0\\system.security.principal.windows.4.5.0.nupkg.sha512",
+    "C:\\Users\\eschb\\.nuget\\packages\\system.serviceprocess.servicecontroller\\4.5.0\\system.serviceprocess.servicecontroller.4.5.0.nupkg.sha512",
+    "C:\\Users\\eschb\\.nuget\\packages\\system.threading.accesscontrol\\4.5.0\\system.threading.accesscontrol.4.5.0.nupkg.sha512",
+    "C:\\Users\\eschb\\.nuget\\packages\\topshelf\\4.2.1\\topshelf.4.2.1.nupkg.sha512",
+    "C:\\Users\\eschb\\.nuget\\packages\\topshelf.serviceinstaller\\4.2.1\\topshelf.serviceinstaller.4.2.1.nupkg.sha512"
+  ],
+  "logs": []
+}
